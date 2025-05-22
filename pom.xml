@@ -6,7 +6,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.4.5</version>
-    <relativePath/> <!-- lookup parent from com.medicalsystem.repository -->
+    <relativePath/> <!-- lookup parent from com.medicalsystem.com.medicalsystem.repository -->
   </parent>
   <groupId>com.medicalSystem</groupId>
   <artifactId>MedicalSystem</artifactId>
