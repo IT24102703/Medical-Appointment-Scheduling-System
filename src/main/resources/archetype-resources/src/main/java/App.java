@@ -1,4 +1,4 @@
-package $DEMO;
+package $org.example;
 
 /**
  * Hello world!

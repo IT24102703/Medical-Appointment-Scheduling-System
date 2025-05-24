@@ -1,5 +1,5 @@
 <archetype>
-  <id>security</id>
+  <id>UserType</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
