@@ -2,7 +2,6 @@ package com.medicalsystem.repository;
 
 import com.medicalsystem.model.Patient;
 import org.springframework.stereotype.Repository;
-
 import java.io.*;
 import java.util.*;
 
